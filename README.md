@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+
+Formado em ADS, com carreira voltada ao desenvolvimento WEB.
+
+📖 Aprofundando conhecimentos front-end
+
+
 
 <!--
 **MikeSoaress/Mikesoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
