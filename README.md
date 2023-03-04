@@ -1,8 +1,8 @@
-### Olá 👋
+Prazer, Mike 👋
 
-Formação em analíse e desenvolvimento de sistemas, carreira voltada ao desenvolvimento WEB.
+Tenho formação superior em analíse e desenvolvimento de sistemas, carreira voltada ao desenvolvimento WEB.
 
-📖 Atualmente sigo aprondando conhecimentos em desenvolvimento front-end.
+📖 Aprondando conhecimentos front-end.
 
 
 
