@@ -1,8 +1,8 @@
 ### Olá 👋
 
-Formado em ADS, com carreira voltada ao desenvolvimento WEB.
+Formação em analíse e desenvolvimento de sistemas, carreira voltada ao desenvolvimento WEB.
 
-📖 Aprofundando conhecimentos front-end
+📖 Atualmente sigo aprondando conhecimentos em desenvolvimento web.
 
 
 
