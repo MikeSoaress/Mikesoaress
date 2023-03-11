@@ -1,6 +1,6 @@
 Prazer, Mike 👋👊
 
-Tenho formação superior em analíse e desenvolvimento de sistemas, carreira voltada ao desenvolvimento WEB.
+Formado em analíse e desenvolvimento de sistemas, carreira voltada ao desenvolvimento WEB.
 
 📖 Aprondando conhecimentos front-end.
 
